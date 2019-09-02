@@ -267,7 +267,7 @@ div#gameoftheweek-container  {     background: url(https://i.imgur.com/6Uw8tza.p
 div#gameoftheweek-container .card-body.text-center {display: inline-block;    vertical-align: middle;  line-height: normal;    text-shadow: 0 1px 2px black;    margin: auto;    background: linear-gradient(to top,#05060680 25%, #656161a6 49%, #00000063 105%);    padding: 4px;    border-radius: 5px;}
 .star {
   position: absolute;
-  background: url(https://mtedwards.s3.amazonaws.com/sparkle.png) no-repeat;
+  background: url(https://i.imgur.com/VzEsjDk.png) no-repeat;
   background-size: contain;
   overflow: hidden;
 }
