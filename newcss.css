@@ -456,12 +456,12 @@ div#cardChart9 {    display: none;}
 	.breadcrumb { background-color: #e9ecef00;} 
 	table.data-table2 tr:hover { background-color: #00000000;} 
 	body {   line-height: 1; color: #e9ecef;} 
-	a { color: #5d9cec;} 
+	a { color: #dc3545;} 
 	.text-muted, .table>thead>tr>th, .table>tbody>tr>td { color: #dee2e6!important;} 
 	table.responsive.dl-table1 { white-space: nowrap;} 
 	table.responsive { white-space: nowrap;} 
 	.form-control { background-color: #dee2e62e; color: white;} 
-	table.dl-table1 .thd1 td { background-color: #29518300;   font-size: small!important;    text-transform: uppercase; color: #5d9cec; text-decoration: none;} 
+	table.dl-table1 .thd1 td { background-color: #29518300;   font-size: small!important;    text-transform: uppercase; color: #dc3545; text-decoration: none;} 
 	table.dl-table1 .thd1 td a, table.dl-table1 .thd1 th a { color: #007bff;} 
 	.card{ background: transparent;} 
 	tr.thd2 td { color: #ddd!important;} 
